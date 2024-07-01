@@ -13,13 +13,6 @@ Any other data set can be used and placed in the above path to obtain the predic
 The format for the data is as follows:
 
 
-| tweet  | Sentiment |
-| ------------- | ------------- |
-| eeeks i like some1 :X :S. gossh, i promised myself not again! but just cant help it this time   | 1  |
-| @euniqueflair You would be very happy with a Razer Mamba  http://is.gd/13mMG recommended!  | 1  |
-| Freakin' crap! I just bit my tongue on accident.  | 0  |
-
-
 ##### Extracting features:
 
 The following features were added to the existing dataset.
